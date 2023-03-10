@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nitish Kumar Samal.
+- 👋 Hi, I’m Nitish
 - 👀 I’m interested in Software Web Application Development.
 - 🌱 I’m currently learning DSA using JAVA.
 <!--- - 💞️ I’m looking to collaborate on ...
