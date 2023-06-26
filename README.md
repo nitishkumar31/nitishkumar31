@@ -12,7 +12,7 @@ const nitish = {
   located_in: ['Odisha', 'India'],
   education: [
     "Self-Taught Developer",
-    "Master of Computer Application",
+    "Master of Computer Applications",
   ],
   fields_of_interests: [
     "Web Development",
