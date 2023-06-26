@@ -7,8 +7,6 @@
 
 - 🌱 Learning Never Stops 🚀
 
-- 👀 I’m interested in Software Web Application Development.
-
 ```javascript
 const nitish = {
   located_in: ['Odisha', 'India'],
