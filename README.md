@@ -49,7 +49,7 @@ const nitish = {
 
 <br/>
 
-<h3 align="left">Web Tech Stack :</h3>
+<h3 align="left">Tech Stacks :</h3>
 <div align="left">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
@@ -68,6 +68,8 @@ const nitish = {
 <!-- <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> -->
 <!-- <img alt="sockteio" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"/> -->
   <img alt="cypress" src="https://img.shields.io/badge/cypress-323330?style=for-the-badge&logo=cypress&logoColor=White"/>
+ 
+  [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/downloads)
 
 </div>
 
