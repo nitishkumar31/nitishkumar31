@@ -1,9 +1,13 @@
- <h1 align="center">
+<h1 align="center">
   <img src="https://github.com/nitishkumar31/wave/blob/main/waving-hand.gif" height="40px" >&nbsp; Hi, I'm <a href="https://www.linkedin.com/in/nitish31/" target="_blank"> Nitish </a>
 </h1>
 <h3 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=0357F7&font=Fira+Code&duration=4000&pause=0&center=true&vCenter=true&width=435&lines=Web+Developer;Front-End+Developer;Back-End+Developer;MERN+Developer;Full+Stack+Developer" alt="Typing SVG" /></a>
 </h3>
+
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nitishskumar31.nitishskumar31) -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nitishkumar31.nitishkumar31">
+<!--  <img src="https://komarev.com/ghpvc/?username=nitishkumar31&label=Profile%20views&color=0e75b6&style=flat" alt="nitishkumar31" /> -->
 
 - 🌱 Learning Never Stops 🚀
 
@@ -88,7 +92,7 @@ const nitish = {
 
 <table align="center">
   <tr>
-<!--     <td><img src="https://github-readme-stats.vercel.app/api?username=nitishkumar31&show_icons=true&theme=dark&locale=en" alt="nitishkumar31" /></td> -->
+    <td><img src="https://github-readme-stats.vercel.app/api?username=nitishkumar31&show_icons=true&theme=dark&locale=en" alt="nitishkumar31" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nitishkumar31&show_icons=true&theme=dark&locale=en&layout=compact" alt="nitishkumar31" /></td>
   </tr>
 </table>
