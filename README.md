@@ -27,7 +27,7 @@ const nitish = {
   Goals_of_2023: "Create 20+ Projects and learn at least 5 new Technologies",
   hobbies: [
     "Travelling",
-    "photography",
+    "Photography",
     "Cinema"
   ]
 };
