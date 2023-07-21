@@ -40,6 +40,7 @@ const nitish = {
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
 
+---
 
 <h3 align="left">Connect with me :</h3>
 <div align="left">
