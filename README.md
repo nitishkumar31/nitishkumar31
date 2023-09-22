@@ -1,8 +1,9 @@
+<p align="center"><img src="https://github.com/nitishkumar31/wave/blob/main/waving-hand.gif" height="70px" > &emsp; &emsp;</p>
 <h1 align="center">
-  <img src="https://github.com/nitishkumar31/wave/blob/main/waving-hand.gif" height="40px" >&nbsp; Hi, I'm <a href="https://www.linkedin.com/in/nitish31/" target="_blank"> Nitish </a>
+  Hi, I'm <a href="https://www.linkedin.com/in/nitish31/" target="_blank"> Nitish </a>
 </h1>
 <h3 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=0357F7&font=Fira+Code&duration=4000&pause=0&center=true&vCenter=true&width=435&lines=Web+Developer;Front-End+Developer;Back-End+Developer;MERN+Developer;Full+Stack+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=0357F7&font=Fira+Code&duration=4000&pause=0&center=true&vCenter=true&width=435&lines=Web+Developer;Front-End+Developer;React+Developer;MERN+Developer;Full+Stack+Developer" alt="Typing SVG" /></a>
 </h3>
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nitishskumar31.nitishskumar31) -->
