@@ -1,37 +1,46 @@
-<p align="center"><img src="https://github.com/nitishkumar31/wave/blob/main/waving-hand.gif" width="70px" > &emsp; &emsp;</p>
+<!-- <p align="center"><img src="https://github.com/nitishkumar31/wave/blob/main/waving-hand.gif" height="70px" > &emsp; &emsp;</p> -->
 <h1 align="center">
-  Hi, I'm <a href="https://www.linkedin.com/in/nitish31/" target="_blank"> Nitish </a>
+  <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="35px">
+  Hi, I'm <a href="https://www.linkedin.com/in/nitish31/" target="_blank" > Nitish </a>
 </h1>
 
 <h3 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=0357F7&font=Fira+Code&duration=4000&pause=0&center=true&vCenter=true&width=435&lines=Web+Developer;Front-End+Developer;React+Developer;MERN+Developer;Full+Stack+Developer" alt="Typing SVG" /></a>
 </h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
-</p>
+</p> -->
 
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nitishskumar31.nitishskumar31) -->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nitishkumar31.nitishkumar31">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nitishkumar31.nitishkumar31"> <br/>
 <!--  <img src="https://komarev.com/ghpvc/?username=nitishkumar31&label=Profile%20views&color=0e75b6&style=flat" alt="nitishkumar31" /> -->
 
-- 🌱 Learning Never Stops 🚀
+<!-- - 🌱 Learning Never Stops 🚀 -->
 
 ```javascript
 const nitish = {
   located_in: ["Odisha", "India"],
-  education: [
-    "Self-Taught Developer",
-    "Master of Computer Applications",
-  ],
+  experience: {
+                company: "Appman Technologies Pvt. Ltd.",
+                position: "Software Developer Intern",
+              },
+  education: "Master in Computer Applications",
+  specialization_course: "Coding Ninjas Fullstack Development",
   fields_of_interests: [
     "Web Development",
-    "Back-end Development",
-    "Data Structure"
+    "Front-end Development",
+    "Back-end Development"
   ],
-  currently_learning: "MERN Development",
-  Goals_of_2023: "Create 20+ Projects and learn at least 5 new Technologies",
+  currently_learning: "MERN Stack Development",
+  goals_of_2023: "Create 20+ Projects and learn at least 5 new Technologies",
+certifications: [
+                  "Introduction to JAVA by Coding Ninjas",
+                  "Front-End Web Development by Coding Ninjas",
+                  "Cloud Computing by NPTEL & IIT Kharagpur",
+                  "Introduction to Industry 4.0 and Industrial IOT by NPTEL & IIT Kharagpur"
+                ],
   hobbies: [
     "Travelling",
     "Photography",
@@ -47,7 +56,7 @@ const nitish = {
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
 
----
+<!-- --- -->
 
 <h3 align="left">Connect with me :</h3>
 <div align="left">
@@ -64,21 +73,22 @@ const nitish = {
 <div align="left">
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-  <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/> 
-  <!-- <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> -->
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
   <!-- <img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/> -->
   <!-- <br> -->
+  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <!-- <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> -->
   <!-- <img alt="mui" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/> -->
   <!-- <img alt="chakraui" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"/> -->
   <!-- <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/> -->
   <!-- <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> -->
   <!-- <img alt="sockteio" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"/> -->
   <img alt="cypress" src="https://img.shields.io/badge/cypress-323330?style=for-the-badge&logo=cypress&logoColor=White"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <!-- [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/downloads) -->
 
@@ -88,8 +98,9 @@ const nitish = {
 
 <h3 align="left">Languages :</h3>
 <div align="left">
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sql&logoColor=white"/>
 <!--   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> -->
   <img alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <!--   <img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> -->
