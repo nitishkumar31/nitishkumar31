@@ -36,11 +36,11 @@ const nitish = {
   currently_learning: "MERN Stack Development",
   goals_of_2023: "Create 20+ Projects and learn at least 5 new Technologies",
   certifications: [
-                  "Introduction to JAVA by Coding Ninjas",
-                  "Front-End Web Development by Coding Ninjas",
-                  "Cloud Computing by NPTEL & IIT Kharagpur",
-                  "Introduction to Industry 4.0 and Industrial IOT by NPTEL & IIT Kharagpur"
-                ],
+                    "Introduction to JAVA by Coding Ninjas",
+                    "Front-End Web Development by Coding Ninjas",
+                    "Cloud Computing by NPTEL & IIT Kharagpur",
+                    "Introduction to Industry 4.0 and Industrial IOT by NPTEL & IIT Kharagpur"
+                  ],
   hobbies: [
     "Travelling",
     "Photography",
