@@ -22,10 +22,16 @@
 ```javascript
 const Nitish = {
   located_in: ["Odisha", "India"],
-  experience: {
-                company: "Appman Technologies Pvt. Ltd.",
-                position: "Software Developer Intern",
-              },
+  experience: [
+                {
+                  company: "Appman Technologies",
+                  position: "Software Developer Intern",
+                },
+                {
+                  company: "Skillanto Pvt. Ltd.",
+                  position: "Software Engineer",
+                },
+              ],
   education: "Master in Computer Applications",
   specialization_course: "Coding Ninjas Fullstack Development",
   fields_of_interests: [
